@@ -7,6 +7,7 @@ public class CustomLL {
 		LinkedList<Companies> list= new LinkedList<>();
 		list.add(new Companies(1L, "CG", "EPIP Phase- 2"));
 		list.add(new Companies(2L, "IBM", "EGL Kormangala"));
+		list.add(new Companies(3L, "Wissen Technology.", "KaduBeesanhalli"));
 		list.show();
 	}
 
